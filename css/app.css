@@ -1,0 +1,9 @@
+/*@import "others.css";*/
+
+body, aside {
+    background-color: blue /*!important*/;
+}
+
+#personal-info{
+    background-color: blueviolet;
+}
